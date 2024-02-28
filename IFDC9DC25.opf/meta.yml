@@ -1,0 +1,49 @@
+id: IFDC9DC25
+ocr_import_info:
+  source: bdrc
+  software: google_books
+  batch: batch_2022
+  expected_default_language: bo
+  bdrc_scan_id: W3CN1732
+  ocr_info:
+    timestamp: 03/21/23T14:13:52
+    html: html.zip
+    txt: txt.zip
+    images: images.zip
+  op_import_options: {}
+  op_import_version: 0.11.9
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-02-28 22:51:52.566959+00:00
+last_modified: 2024-02-28 22:51:52.566964+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W3CN1732
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW3CN1732
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: སྨྱུང་གནས་ཀྱི་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར་ཆོ་ག་བསྟོད་འགྲེལ་ཕན་ཡོན་དང་བཅས་པ།
+  languages:
+  - bo
+  author: ལ་མོ་བློ་བཟང་བསྟན་པའི་ཉི་མ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9111310616426926
+  ocr_word_median_confidence_index: 0.98
+bases:
+  I3CN1734:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN1734
+      total_pages: 126
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3CN1734.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.98
+      ocr_word_mean_confidence_index: 0.9111310616426926
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
